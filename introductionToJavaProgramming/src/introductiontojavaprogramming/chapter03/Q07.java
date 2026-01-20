@@ -1,4 +1,4 @@
-package introductiontojavaprogramming.chapter01;
+package introductiontojavaprogramming.chapter03;
 
 import java.util.Scanner;
 
